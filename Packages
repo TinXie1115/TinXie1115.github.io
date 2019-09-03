@@ -1,14 +1,18 @@
-Package: com.mrmadjb.PxMartPRO
+Package: tw.com.TinXie.PxMart-PRO
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: TinXie <s2339956@gmail.com>
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/tw.com.TinXie.PxMart-PRO_1.2_iphoneos-arm.deb
-Size: 40956
+Size: 44174
 MD5sum: 2e317ff411c2f946260a658ebb9d07f7
-SHA1: 84623e813ddd97b7535d9d8a62a0f4f58a3401fd
-SHA256: 168b40012e64ce1a82dcec1a8331678e61bdd51e250164ddd66c4fa141a05268
-Section: Tweaks
+SHA1: 46099e09144f762edd943c5e2d96add55ab88c3b
+SHA256: e0449a0c1d9f204659d1ea0fd9dde01b8efb99ee9b8fd8130e73dfbe941902bb
+Section: System
+Priority: optional
 Description: 全聯pay 防越獄檢測，同時支援全家app
-Author: TinXie <s2339956@gmail.com>
-Name: PxMart PRO FJB
+Author: TinXie
+Depiction: 全聯pay 防越獄檢測，同時支援全家app
+Icon: file:///Library/PreferenceLoader/Preferences/PxMart-PRO-icon@2x.png
+Name: PxMart_PRO_FJB
+
