@@ -655,6 +655,7 @@ fieldset>a>img.icon {
     max-height: 30px;
     width: 30px;
     min-width: 30px
+
 }
 .cytyle-faux fieldset>a>img.icon {
     margin: 6px 6px
@@ -692,6 +693,7 @@ fieldset>a[type="profile"]>img.icon {
     max-height: none;
     min-width: none;
     margin: 0
+
 }
 .cytyle-faux panel>fieldset>a[type="profile"]>img.icon {
     -moz-border-radius-topleft: 8px;
@@ -1037,3 +1039,14 @@ panel>block>p
 {
     text-align: center !important;
 }
+
+.round_icon{
+    margin-top: 10px;
+    width: 92px;
+    height: 92px;
+    display: flex;
+    border-radius: 92px;
+    overflow: hidden;
+    
+}
+
