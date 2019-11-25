@@ -7,6 +7,7 @@
 		<key>Bundles</key>
 		<array>
 			<string>com.etmgup.pxmart</string>
+			<string>com.FarEasternElectronic.ETC</string>
 			<string>tw.com.TinXie.PxMart-PRO-MD</string>
 			<string>com.familymart.familymart</string>
 		</array>
