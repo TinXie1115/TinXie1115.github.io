@@ -22,15 +22,33 @@ Architecture: iphoneos-arm
 Maintainer: TinXie <s2339956@gmail.com>
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/tw.com.TinXie.PxMart-PRO_1.3_iphoneos-arm.deb
-Size: 62068
-MD5sum: 96d39752d8c461109980abc74b901416
-SHA1: ff5b0acc3950da02b08700f416d2b7c04193b868
-SHA256: a03e644b7f138865a47659557f51f26498f427e3b8225c9b57179967d114cd58
+Size: 62082
+MD5sum: f26cc24c3978b8228f26921c6687ffd0
+SHA1: ddc767254077785e16646252e1033b475b0f6545
+SHA256: 793291d42e88173e575d14249db503e653dffca9eb9545b9c03f3d99e79c584c
 Section: System #Cydia源中的分類
 Priority: optional
-Description: 全聯pay 防越獄檢測，同時支援全家app、遠通電收ETC  #簡短簡介
+Description: 全聯pay 防越獄檢測，同時支援全家app、遠通電收ETC，支援至 PxMart_PRO6.2.1  #簡短簡介
 Author: TinXie
 Depiction: 全聯pay 防越獄檢測，同時支援全家app、遠通電收ETC
 Icon: file:///Library/PreferenceLoader/Preferences/PxMart-PRO-icon@2x.png
 Name: PxMart_PRO_FJB
+
+Package: tw.com.TinXie.WoodPeckeriOS
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: TinXie <s2339956@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, AppList
+Filename: ./debs/tw.com.TinXie.WoodPeckeriOS_1.2.2_iphoneos-arm.deb
+Size: 5737736
+MD5sum: 4b6142eeb7fe4af30e090003591e3e18
+SHA1: b3e7c17683452b63eb28c3ce8e7843d8cd99585d
+SHA256: c787834e1ce05f8db841128b369fdac06a6427f716a233d5ce0f90ce433e831b
+Section: Tweaks
+Priority: optional
+Description: 使用WoodPeckeriOS 1.2.2動態庫，調適三方app。
+Author: TinXie
+Depiction: WoodPeckeriOS，使用WoodPeckeriOS 1.2.2版本的動態庫，動態庫若更新請自己替换"Library/MobileSubstrate/DynamicLibraries/WoodPeckeriOS/WoodPeckeriOS.framework"。
+Icon: file:///Library/MobileSubstrate/DynamicLibraries/WoodPeckeriOS/WoodPeckeriOSIcon@2x.png
+Name: WoodPeckeriOS
 
