@@ -35,20 +35,20 @@ Icon: file:///Library/PreferenceLoader/Preferences/PxMart-PRO-icon@2x.png
 Name: PxMart_PRO_FJB
 
 Package: tw.com.TinXie.WoodPeckeriOS
-Version: 1.2.2
+Version: 1.2.5
 Architecture: iphoneos-arm
 Maintainer: TinXie <s2339956@gmail.com>
 Depends: firmware (>= 10.0), mobilesubstrate, AppList
-Filename: ./debs/tw.com.TinXie.WoodPeckeriOS_1.2.2_iphoneos-arm.deb
-Size: 5737736
-MD5sum: 4b6142eeb7fe4af30e090003591e3e18
-SHA1: b3e7c17683452b63eb28c3ce8e7843d8cd99585d
-SHA256: c787834e1ce05f8db841128b369fdac06a6427f716a233d5ce0f90ce433e831b
+Filename: ./debs/tw.com.TinXie.WoodPeckeriOS_1.2.5_iphoneos-arm.deb
+Size: 2389830
+MD5sum: f1032800b0ead9a05a63c9d6f4624e3d
+SHA1: 89c20fc4baa744b05860376f555cdb66a5a46d42
+SHA256: 234fd000cea4f82f216203689f96d80d366b71561280606d12205edc3cd6386c
 Section: Tweaks
 Priority: optional
-Description: 使用WoodPeckeriOS 1.2.2動態庫，調適三方app。
+Description: 使用WoodPeckeriOS 1.2.5動態庫，調適三方app。
 Author: TinXie
-Depiction: WoodPeckeriOS，使用WoodPeckeriOS 1.2.2版本的動態庫，動態庫若更新請自己替换"Library/MobileSubstrate/DynamicLibraries/WoodPeckeriOS/WoodPeckeriOS.framework"。
+Depiction: WoodPeckeriOS，使用WoodPeckeriOS 1.2.5版本的動態庫，動態庫若更新請自己替换"Library/MobileSubstrate/DynamicLibraries/WoodPeckeriOS/WoodPeckeriOS.framework"。
 Icon: file:///Library/MobileSubstrate/DynamicLibraries/WoodPeckeriOS/WoodPeckeriOSIcon@2x.png
 Name: WoodPeckeriOS
 
