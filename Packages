@@ -22,15 +22,15 @@ Architecture: iphoneos-arm
 Maintainer: TinXie <s2339956@gmail.com>
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/tw.com.TinXie.PxMart-PRO_1.3_iphoneos-arm.deb
-Size: 44922
-MD5sum: e5c204213d48eca551c1fa70db6f7c7e
-SHA1: 40c09f2a42a808b6860f4f77dfd62c3d5b1caf24
-SHA256: a27c46ff5b71042f6cfce7515fb89e875776253eb46aabaef65753422b20770b
+Size: 44916
+MD5sum: cd8b59b41654a715a920a4ab00adef2f
+SHA1: a54e197c9811731f547d1ff04e1293c2c9bb16b3
+SHA256: ff1a7b4361952d807da6f33c7aa586904ef13774450a01b2fc440befb1d452ac
 Section: System #Cydia源中的分類
 Priority: optional
-Description: https://tinxie1115.github.io/descriptions/PxMart-PRO/index.html
+Description: 全聯pay 防越獄檢測，同時支援全家app、遠通電收ETC
 Author: TinXie
-Depiction: 全聯pay 防越獄檢測，同時支援全家app、遠通電收ETC
+Depiction: https://tinxie1115.github.io/descriptions/PxMart-PRO/index.html
 Icon: file:///Library/PreferenceLoader/Preferences/PxMart-PRO-icon@2x.png
 Name: PxMart_PRO_FJB
 
@@ -58,17 +58,15 @@ Architecture: iphoneos-arm
 Maintainer: TinXie <s2339956@gmail.com>
 Depends: firmware (>= 10.0), mobilesubstrate, AppList
 Filename: ./debs/tw.com.TinXie.WoodPeckeriOS_1.2.5.1_iphoneos-arm.deb
-Size: 2408290
-MD5sum: b5befcf0ef917402cfa71a7e3a93ce45
-SHA1: 9d8974b5ddfc5e5a32cb8af9b65b1de47a854462
-SHA256: 7c651bca7b575ad452830495fc1e038454130e7a049155c270326961e405f538
+Size: 2389824
+MD5sum: 5a7938898ece0edb0d08cb7fbee7ac12
+SHA1: 7a79ce42af7adbe26508ce88dabfdb0e6dc47c95
+SHA256: 197125521db7c96641f130a2b8441b2c0cf57ec13eebd88aade5085816f748e0
 Section: Tweaks
 Priority: optional
-Description: WoodPeckeriOS，使用WoodPeckeriOS 1.2.5版本的動態庫， <br/>
-             動態庫若更新請自己替换"Library/MobileSubstrate/DynamicLibraries/WoodPeckeriOS/WoodPeckeriOS.framework"。<br/>
-             修正全域注入。<br/>
+Description: 使用WoodPeckeriOS 1.2.5動態庫，調適三方app。
 Author: TinXie
-Depiction: 使用WoodPeckeriOS 1.2.5動態庫，調適三方app。
+Depiction: https://tinxie1115.github.io/descriptions/WoodPeckeriOS/index.html
 Icon: file:///Library/MobileSubstrate/DynamicLibraries/WoodPeckeriOS/WoodPeckeriOSIcon@2x.png
 Name: WoodPeckeriOS
 
