@@ -40,10 +40,10 @@ Architecture: iphoneos-arm
 Maintainer: TinXie <s2339956@gmail.com>
 Depends: firmware (>= 10.0), mobilesubstrate, AppList
 Filename: ./debs/tw.com.TinXie.WoodPeckeriOS_1.2.9.1_iphoneos-arm.deb
-Size: 2411676
-MD5sum: 76170a55da78d3a3a894d885ce0ae313
-SHA1: 2db5aa6a4b0f076f290ffcb9c6ef8d6a384cb915
-SHA256: b1ef030d37616ee30bcebcf6d348eec3bffc05f57fd9a5f56547ee1c96ae4a47
+Size: 2411684
+MD5sum: 23be6cf0b59ab0a3af6657cc4d7ec9ed
+SHA1: da5509c951fc78148dd08e18b85c215fc767e86f
+SHA256: d4deaf4c5c8e7391e9d69229516109e563fc34c28d81df7e81fc8d324fa1094d
 Section: Tweaks #工具插件
 Priority: optional
 Description: 使用WoodPeckeriOS 1.2.9動態庫，調適三方app。
